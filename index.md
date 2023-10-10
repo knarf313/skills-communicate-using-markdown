@@ -18,7 +18,7 @@ String txt  = "Hello world!";
 System.out.println(txt);
 ``` 
 
-
+TAaklist werkt niet in dit bestand...
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
