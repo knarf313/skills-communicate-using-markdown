@@ -17,3 +17,9 @@ Probeersel met verschillende soorten headers
 String txt  = "Hello world!";
 System.out.println(txt);
 ``` 
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ]  ...
